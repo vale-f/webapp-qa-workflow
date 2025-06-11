@@ -20,9 +20,11 @@ The QA modalities to be implemented are **Manual testing** and **Test automation
 
 ### Types of Tests to Be Carried Out
 
-- **Functional Testing**  
-  (including smoke and regression testing)
-- **API Testing**
+- **Functional Testing**, including: 
+  - Smoke Testing
+  - Regression Testing
+  - UI Testing
+  - API Testing
 
 ---
 
