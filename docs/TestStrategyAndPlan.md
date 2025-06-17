@@ -51,5 +51,5 @@ The QA modalities to be implemented are **Manual testing** and **Test automation
 - **Automation Test Suite and Results**  
   Source code of automated tests plus generated reports.
 
-- **API Test Logs / Reports**
+- **API Test Logs / Reports**  
   Execution logs with request/response details and/or summarized reports, based on testing context.
