@@ -32,7 +32,7 @@ The QA modalities to be implemented are **Manual testing** and **Test automation
 
 - **Playwright** 
 - **Postman**
-- **Jira** 
+- **Qase** 
 - **GitLab**
 
 ---
