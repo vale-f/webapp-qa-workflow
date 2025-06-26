@@ -43,7 +43,7 @@ The QA modalities to be implemented are **Manual testing** and **Test automation
   A list of high-level scenarios covering each feature.
 
 - **Test Scenario Status Report**  
-  Indicates the pass/fail status for each scenario. (Evidence attachments are included only if the scenario fails.)
+  Indicates the pass/fail status for each scenario. (Evidence attachments are only included for failed scenarios, either in the status report or attached to the related bug report.)
 
 - **Bug Reports**  
   Detailed defect records with steps to reproduce, severity, screenshots, etc.
