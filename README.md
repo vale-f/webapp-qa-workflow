@@ -3,5 +3,3 @@ This repository showcases some of my work as a QA for a Ruby-based web applicati
 
 As of now, this repository contains the follwing:
 - **/docs/**: Test Strategy and Plan.
-
-It will be expanded in the following weeks.
